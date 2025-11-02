@@ -1,0 +1,8 @@
+[book]
+authors = ["liuhuo"]
+language = "zh-cn"
+src = "src"
+title = "gpui"
+
+[output.html]
+theme = "../theme"

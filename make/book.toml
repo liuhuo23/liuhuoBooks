@@ -1,0 +1,6 @@
+[book]
+authors = ["liuhuo"]
+language = "en"
+src = "src"
+theme = "system"
+title = "liuhuo make"
